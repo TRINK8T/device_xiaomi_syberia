@@ -1,0 +1,92 @@
+[
+    {
+        "repository":   "device_xiaomi_syberia",
+        "target_path":  "device/xiaomi/syberia",
+        "branch":       "11.0"
+    },
+    {
+        "repository":   "device_xiaomi_ginkgo",
+        "target_path":  "device/xiaomi/ginkgo",
+        "branch":       "11.0"
+    },
+    {
+        "repository":   "vendor_xiaomi_ginkgo",
+        "target_path":  "vendor/xiaomi/ginkgo",
+        "branch":       "11.0"
+    },
+    {
+        "repository":   "vendor_miuicamera",
+        "target_path":  "vendor/miuicamera",
+        "branch":       "11.0"
+    },
+    {
+        "repository":   "hardware_qcom-caf_sm8150_display",
+        "target_path":  "hardware/qcom-caf/sm8150/display",
+        "branch":       "11.0"
+    },
+    {
+        "repository":   "vendor_qcom-opensource_display-commonsys-intf",
+        "target_path":  "vendor/qcom-opensource/display-commonsys-intf",
+        "branch":       "11.0"
+    },
+    {
+        "repository":   "hardware_qcom-caf_sm8150_audio",
+        "target_path":  "hardware/qcom-caf/sm8150/audio",
+        "branch":       "11.0"
+    },
+    {
+        "repository":   "hardware_qcom-caf_sm8150_media",
+        "target_path":  "hardware/qcom-caf/sm8150/media",
+        "branch":       "11.0"
+    },
+    {
+        "repository":   "hardware_qcom-caf_wlan",
+        "target_path":  "hardware/qcom-caf/wlan",
+        "branch":       "11.0"
+    },
+    {
+        "repository":   "hardware_qcom-caf_common",
+        "target_path":  "hardware/qcom-caf/common",
+        "branch":       "11.0"
+    },
+    {
+        "repository":   "vendor_qcom_opensource_dataservices",
+        "target_path":  "vendor/qcom/opensource/dataservices",
+        "branch":       "11.0"
+    },
+    {
+        "repository":   "vendor_qcom_opensource_data-ipa-cfg-mgr",
+        "target_path":  "vendor/qcom/opensource/data-ipa-cfg-mgr",
+        "branch":       "11.0"
+    },
+    {
+        "repository":   "external_ant-wireless_antradio-library",
+        "target_path":  "external/ant-wireless/antradio-library",
+        "branch":       "11.0"
+    },
+    {
+        "repository":   "external_json-c",
+        "target_path":  "external/json-c",
+        "branch":       "11.0"
+    },
+    {
+        "repository":   "packages_resources_devicesettings",
+        "target_path":  "packages/resources/devicesettings",
+        "branch":       "11.0"
+    },
+    {
+        "repository":   "packages_apps_FMRadio",
+        "target_path":  "packages/apps/FMRadio",
+        "branch":       "11.0"
+    },
+    {
+        "repository":   "vendor_qcom_opensource_libfmjni",
+        "target_path":  "vendor/qcom/opensource/libfmjni",
+        "branch":       "11.0"
+    },
+    {
+        "repository":   "vendor_qcom_opensource_fm-commonsys",
+        "target_path":  "vendor/qcom/opensource/fm-commonsys",
+        "branch":       "11.0"
+    }
+]
