@@ -88,5 +88,15 @@
         "repository":   "vendor_qcom_opensource_fm-commonsys",
         "target_path":  "vendor/qcom/opensource/fm-commonsys",
         "branch":       "11.0"
+    },
+    {
+        "repository":   "vendor_qcom_opensource_power",
+        "target_path":  "vendor/qcom/opensource/power",
+        "branch":       "11.0"
+    },
+    {
+        "repository":   "vendor_support-lib",
+        "target_path":  "vendor/support-lib",
+        "branch":       "11.0"
     }
 ]
