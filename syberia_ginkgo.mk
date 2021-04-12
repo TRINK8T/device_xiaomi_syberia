@@ -23,6 +23,9 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_p.mk)
 # Inherit from ginkgo device
 $(call inherit-product, device/xiaomi/ginkgo/device.mk)
 
+# Inherit SyberiaOS specific IMS
+$(call inherit-product, device/xiaomi/syberia/ginkgo-vendor.mk)
+
 # Inherit some common SyberiaOS stuff
 SYBERIA_BUILD_TYPE := OFFICIAL
 TARGET_BOOT_ANIMATION_RES := 1080
