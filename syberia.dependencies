@@ -100,8 +100,18 @@
         "branch":       "11.0"
     },
     {
+        "repository":   "packages_apps_Eleven",
+        "target_path":  "packages/apps/Eleven",
+        "branch":       "11.0"
+    },
+    {
         "repository":   "packages_apps_FMRadio",
         "target_path":  "packages/apps/FMRadio",
+        "branch":       "11.0"
+    },
+    {
+        "repository":   "packages_apps_Recorder",
+        "target_path":  "packages/apps/Recorder",
         "branch":       "11.0"
     },
     {
